@@ -8,6 +8,7 @@ Welcome to the official technical documentation portal for **Shanghai Xinma Busw
 * [Seismic Bracing - Installation Guidelines](./seismic-bracing-guide.md)
 
 ## 📥 Downloadable Certifications & Resources
+Verify our commitment to quality, safety, and compliance through our official certifications:
 
 * [ISO 9001:2015 - Quality Management System](./ISO9001.jpg)
 * [OHSAS 18001 - Occupational Health & Safety](./OHSAS18001.jpg)
