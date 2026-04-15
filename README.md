@@ -10,10 +10,10 @@ Welcome to the official technical documentation portal for **Shanghai Xinma Busw
 ## 📥 Downloadable Certifications & Resources
 Verify our commitment to quality, safety, and compliance through our official certifications:
 
-* [ISO 9001:2015 - Quality Management System](./ISO9001.pdf)
-* [OHSAS 18001 - Occupational Health & Safety](./OHSAS18001.pdf)
-* [CCC - China Compulsory Certification](./CCC.pdf)
-* [CQC - Product Quality Certification](./CQC.pdf)
+* [ISO 9001:2015 - Quality Management System](./ISO9001)
+* [OHSAS 18001 - Occupational Health & Safety](./OHSAS18001)
+* [CCC - China Compulsory Certification](./CCC)
+* [CQC - Product Quality Certification](./CQC)
 
 ---
 *For commercial inquiries, project-specific test reports, or to request a quote, please visit our [Main Corporate Website](https://xmqj.com).*
